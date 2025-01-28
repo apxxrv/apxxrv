@@ -93,21 +93,21 @@
 <p align="center">
   <!-- Top Languages Card -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=apxxrv&layout=compact&theme=default&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=apxxrv&layout=compact&theme=default&hide_border=true&count_private=true" 
     alt="Top Languages" 
     style="max-width: 100%;" 
   />
   
-  <!-- GitHub Stats Card -->
+  <!-- GitHub Stats Card with Private Contributions -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=apxxrv&show_icons=true&theme=default&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=apxxrv&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"
     alt="GitHub Stats"
     style="max-width: 100%;"
   />
   
   <!-- Streak Stats Card -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=apxxrv&theme=default&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=apxxrv&theme=default&hide_border=true&count_private=true" 
     alt="GitHub Streak" 
     style="max-width: 100%;" 
   />
