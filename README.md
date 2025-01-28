@@ -100,10 +100,30 @@
   
   <!-- GitHub Stats Card with Private Contributions -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=apxxrv&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=apxxrv&show_icons=true&count_private=true&include_all_commits=true&token=${{ secrets.GH_PAT }}"
     alt="GitHub Stats"
     style="max-width: 100%;"
   />
+
+  <!-- Streak Stats Card -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=apxxrv&theme=default&hide_border=true&count_private=true" 
+    alt="GitHub Streak" 
+    style="max-width: 100%;" 
+  />
+</p>
+
+
+  <!-- IMPORTANT: Using a Personal Access Token (PAT) -->
+  <!-- If GitHub Readme Stats is still not showing private commits, -->
+  <!-- Use the following URL, replacing 'YOUR_PERSONAL_ACCESS_TOKEN' with a secure method -->
+  <!-- DO NOT HARD-CODE your token in this file! Use GitHub Secrets instead -->
+  
+  <!-- Example for GitHub Actions (Recommended) -->
+  <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apxxrv&show_icons=true&count_private=true&include_all_commits=true&token=${{ secrets.GH_PAT }}) -->
+  
+  <!-- Example for a self-hosted instance (Vercel) -->
+  <!-- ![GitHub Stats](https://your-vercel-instance.vercel.app/api?username=apxxrv&show_icons=true&count_private=true&include_all_commits=true) -->
   
   <!-- Streak Stats Card -->
   <img 
