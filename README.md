@@ -1,134 +1,135 @@
-<!-- HEADER -->
-<h1 align="center">Hi there, I'm Apoorv 👋</h1>
+<!-- HEADER WITH ANIMATED GREETING -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+Apoorv+%F0%9F%91%8B;Welcome+to+my+profile" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">
-  Full Stack Developer | Passionate about building seamless digital experiences
+  <code>Full Stack Developer</code> passionate about building seamless digital experiences
 </h3>
 
-<p align="center">
-  <!-- Profile Views -->
-  <img 
-    src="https://komarev.com/ghpvc/?username=apxxrv&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="Apoorv's profile views" 
-  />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=apxxrv&label=Profile%20views&color=0e75b6&style=flat" alt="Apoorv's profile views" />
+</div>
 
-<!-- ABOUT ME -->
-<p align="center">
-  🌱 <strong>Currently learning React Native</strong> <br />
-  👨‍💻 <strong>Explore my work on</strong>
-  <a 
-    href="https://devpost.com/apxxrv?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" 
-    target="_blank" 
-    rel="noopener noreferrer"
-  >
-    Devpost
-  </a> 
-  <br />
-  💬 <strong>Feel free to reach out about MERN stack, iOS, and Android development</strong> <br />
-  📫 <strong>Reach me at:</strong>
-  <a href="mailto:apoorvsingh.dev@gmail.com">apoorvsingh.dev@gmail.com</a>
-</p>
+<!-- SEPARATOR -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator line" width="60%">
+</div>
 
-<!-- CONNECT WITH ME -->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a 
-    href="https://twitter.com/0xapoorv" 
-    target="_blank" 
-    rel="noopener noreferrer"
-  >
-    <img 
-      src="https://img.shields.io/badge/Twitter-0xapoorv-blue?style=for-the-badge&logo=twitter" 
-      alt="Twitter" 
-    />
+<!-- ABOUT ME IN CLEAN SECTIONS -->
+<div align="center">
+  <h3>About Me</h3>
+  
+  <table>
+    <tr>
+      <td>🌱</td>
+      <td>Currently learning <strong>React Native</strong></td>
+    </tr>
+    <tr>
+      <td>👨‍💻</td>
+      <td>Check out my projects on <a href="https://devpost.com/apxxrv?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank">Devpost</a></td>
+    </tr>
+    <tr>
+      <td>💬</td>
+      <td>Ask me about <strong>MERN stack, iOS, and Android development</strong></td>
+    </tr>
+    <tr>
+      <td>📫</td>
+      <td>Reach me at <a href="mailto:apoorvsingh.dev@gmail.com">apoorvsingh.dev@gmail.com</a></td>
+    </tr>
+  </table>
+</div>
+
+<!-- SOCIAL MEDIA BADGES -->
+<div align="center">
+  <h3>Connect With Me</h3>
+  
+  <a href="https://twitter.com/0xapoorv" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a 
-    href="https://instagram.com/whyapooorv" 
-    target="_blank" 
-    rel="noopener noreferrer"
-  >
-    <img 
-      src="https://img.shields.io/badge/Instagram-whyapooorv-ff69b4?style=for-the-badge&logo=instagram" 
-      alt="Instagram" 
-    />
+  &nbsp;
+  <a href="https://instagram.com/whyapooorv" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</p>
+  &nbsp;
+  <a href="https://linkedin.com/in/apxxrv" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
-<!-- LANGUAGES & TOOLS -->
-<h3 align="center">Languages & Tools:</h3>
-<p align="center">
-  <img 
-    src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white" 
-    alt="React" 
-  />
-  <img 
-    src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white" 
-    alt="Node.js" 
-  />
-  <img 
-    src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white" 
-    alt="Python" 
-  />
-  <img 
-    src="https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white" 
-    alt="Swift" 
-  />
-  <img 
-    src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white" 
-    alt="AWS" 
-  />
-  <img 
-    src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white" 
-    alt="Docker" 
-  />
-  <img 
-    src="https://img.shields.io/badge/UI-Figma-informational?style=flat&logo=figma&logoColor=white" 
-    alt="Figma" 
-  />
-</p>
-
-<hr />
-
-<!-- GITHUB STATS -->
-<p align="center">
-  <!-- Top Languages Card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=apxxrv&layout=compact&theme=default&hide_border=true&count_private=true" 
-    alt="Top Languages" 
-    style="max-width: 100%;" 
-  />
+<!-- TECH STACK ICONS -->
+<div align="center">
+  <h3>Tech Stack</h3>
   
-  <!-- GitHub Stats Card with Private Contributions -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=apxxrv&show_icons=true&count_private=true&include_all_commits=true&token=${{ secrets.GH_PAT }}"
-    alt="GitHub Stats"
-    style="max-width: 100%;"
-  />
-
-  <!-- Streak Stats Card -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=apxxrv&theme=default&hide_border=true&count_private=true" 
-    alt="GitHub Streak" 
-    style="max-width: 100%;" 
-  />
-</p>
-
-
-  <!-- IMPORTANT: Using a Personal Access Token (PAT) -->
-  <!-- If GitHub Readme Stats is still not showing private commits, -->
-  <!-- Use the following URL, replacing 'YOUR_PERSONAL_ACCESS_TOKEN' with a secure method -->
-  <!-- DO NOT HARD-CODE your token in this file! Use GitHub Secrets instead -->
+  <!-- Frontend -->
+  <h4>Frontend</h4>
+  <div>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </div>
   
-  <!-- Example for GitHub Actions (Recommended) -->
-  <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apxxrv&show_icons=true&count_private=true&include_all_commits=true&token=${{ secrets.GH_PAT }}) -->
+  <!-- Backend -->
+  <h4>Backend</h4>
+  <div>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </div>
   
-  <!-- Example for a self-hosted instance (Vercel) -->
-  <!-- ![GitHub Stats](https://your-vercel-instance.vercel.app/api?username=apxxrv&show_icons=true&count_private=true&include_all_commits=true) -->
+  <!-- Mobile -->
+  <h4>Mobile</h4>
+  <div>
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  </div>
+  
+  <!-- Tools -->
+  <h4>Tools & DevOps</h4>
+  <div>
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </div>
+</div>
+
+<!-- GITHUB STATS WITH IMPROVED LAYOUT -->
+<div align="center">
+  <h3>GitHub Stats</h3>
+  
+  <div>
+    <!-- GitHub Stats Card -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=apxxrv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+      alt="GitHub Stats" 
+      height="170em"
+    />
+    
+    <!-- Top Languages Card -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=apxxrv&layout=compact&theme=tokyonight&hide_border=true&count_private=true" 
+      alt="Top Languages" 
+      height="170em"
+    />
+  </div>
   
   <!-- Streak Stats Card -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=apxxrv&theme=default&hide_border=true&count_private=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=apxxrv&theme=tokyonight&hide_border=true" 
     alt="GitHub Streak" 
-    style="max-width: 100%;" 
+    width="60%"
   />
-</p>
+</div>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator line" width="60%">
+  <br><br>
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
+
+<!-- Note: To show private contributions stats, set up GitHub secrets in your repository -->
